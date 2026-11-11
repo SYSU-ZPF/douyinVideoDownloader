@@ -18,7 +18,7 @@
 在终端进入项目目录，创建并启用虚拟环境：
 
 ```bash
-cd /Users/zhangpengfei/ml/videodownloader
+cd /Users/xxx/videodownloader
 python3 -m venv .venv
 source .venv/bin/activate
 ```
